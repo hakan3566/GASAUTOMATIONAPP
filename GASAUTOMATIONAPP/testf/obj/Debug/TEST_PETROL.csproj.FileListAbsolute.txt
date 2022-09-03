@@ -1,0 +1,10 @@
+C:\Users\OBJNB101\source\repos\testf\testf\bin\Debug\testf.exe.config
+C:\Users\OBJNB101\source\repos\testf\testf\bin\Debug\testf.exe
+C:\Users\OBJNB101\source\repos\testf\testf\bin\Debug\testf.pdb
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\TEST_PETROL.csproj.AssemblyReference.cache
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\testf.Form1.resources
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\testf.Properties.Resources.resources
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\TEST_PETROL.csproj.GenerateResource.cache
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\TEST_PETROL.csproj.CoreCompileInputs.cache
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\testf.exe
+C:\Users\OBJNB101\source\repos\testf\testf\obj\Debug\testf.pdb
